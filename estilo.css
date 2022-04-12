@@ -1,0 +1,26 @@
+
+main{
+	width:600px;
+	margin:auto;
+	text-align:center;
+}
+
+header{
+	font-size: 20px;
+	color: #0000FF;
+	margin: 20px;
+}
+
+section > div{
+	padding: 5px;
+	font-size: 20px;
+
+}
+
+
+section > div > a{
+	text-decorate; nome;
+	font-size: 20px;
+	color: #0000FF;
+
+}
